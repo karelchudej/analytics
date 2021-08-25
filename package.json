@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "@karelchudej/analytics",
+  "name": "analytics",
   "private": true,
   "scripts": {
     "setup": "npm install && lerna bootstrap",
