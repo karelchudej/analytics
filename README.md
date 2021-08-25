@@ -1,6 +1,4 @@
-<a href="https://getanalytics.io">
-  <img src="https://user-images.githubusercontent.com/532272/110860586-cc927e00-8271-11eb-95c7-44bdda78ab2a.png" width="450" />
-</a>
+# Analytics
 
 ![npm](https://img.shields.io/npm/dw/analytics?style=flat-square) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/analytics?style=flat-square) ![GitHub](https://img.shields.io/github/license/davidwells/analytics?style=flat-square)
 
@@ -748,7 +746,6 @@ Below are plugins created outside of this repo:
 Additional examples
 
 - [Using AWS Lambda, API Gateway & analytics](https://blog.mikecoughlin.com/own-your-event-tracking/)
-- [Using analytics to make amundsen.io pluggable](https://github.com/amundsen-io/amundsenfrontendlibrary/blob/e91c0ab9d8a39b302a71c535145a20e24326ee21/docs/application_config.md#analytics)
 
 ## Creating analytics plugins
 
@@ -977,7 +974,7 @@ Types for analytics and plugins are generated from [JSDoc blocks](https://jsdoc.
 
 We are always looking to improve type support & improve the DX of users. If you see something that can be improved let us know in an issue!
 
-# Contributing
+## Contributing
 
 Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md).
 
