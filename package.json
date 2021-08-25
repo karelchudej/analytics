@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "@karelchudej/analytics",
+  "name": "root",
   "private": true,
   "scripts": {
     "setup": "npm install && lerna bootstrap",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/karelchudej/analytics"
+    "url": "https://github.com/DavidWells/analytics"
   },
   "devDependencies": {
     "@ampproject/rollup-plugin-closure-compiler": "^0.8.5",
